@@ -20,4 +20,4 @@ Adam wants the program to:
 
 **Write a program that meets Adam’s requirements.  (6)**
 
-(c) Greig Reid
+&copy; Greig Reid
