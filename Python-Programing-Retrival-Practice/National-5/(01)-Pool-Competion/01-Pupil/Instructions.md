@@ -24,4 +24,14 @@ Adam wants the program to:
 
 Assuming that five games have been played, state two sets of test data that could be used to demonstrate that two of the messages display correctly when either Adam or his teacher have won the match. (2)
 
+> ## Task 3
+
+State the type of loop you used in your program.  (1)
+
+> ## Task 4
+
+In the final program Adam doesn’t use input validation when the user is asked to input the winner’s name or ‘X’.  
+
+Explain why this could lead to the program not calculating the result correctly.  (2)
+
 &copy; Greig Reid
