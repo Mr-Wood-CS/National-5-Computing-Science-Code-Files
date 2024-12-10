@@ -10,12 +10,12 @@ Adam wishes to write a computer program to calculate the total number of times e
 
 Adam wants the program to:
 
-    * Repeatedly ask the user to input the winner of each game
+* Repeatedly ask the user to input the winner of each game
 
-    * Stop asking for input when the character “X” is entered
+* Stop asking for input when the character “X” is entered
 
-    * Add up the number of wins for each player as the winner of each game is inputted
+* Add up the number of wins for each player as the winner of each game is inputted
 
-    * Display a message congratulating the player who won the most games or display a message saying that the match was tied. 
+* Display a message congratulating the player who won the most games or display a message saying that the match was tied. 
 
 Write a program below that meets Adam’s requirements.  (6)
