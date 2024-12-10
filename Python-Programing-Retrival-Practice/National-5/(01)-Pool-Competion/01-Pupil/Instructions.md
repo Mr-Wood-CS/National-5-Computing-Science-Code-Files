@@ -6,7 +6,7 @@ The winner of their matches is the person who wins the most individual games of 
 
 Adam wishes to write a computer program to calculate the total number of times each player wins a game and display a message congratulating the winner of the overall match.  
 
-> Question 1
+> ## Task 1
 
 Adam wants the program to:
 
@@ -19,5 +19,9 @@ Adam wants the program to:
 * Display a message congratulating the player who won the most games or display a message saying that the match was tied. 
 
 **Write a program that meets Adam’s requirements.  (6)**
+
+> ## Task 2
+
+Assuming that five games have been played, state two sets of test data that could be used to demonstrate that two of the messages display correctly when either Adam or his teacher have won the match. (2)
 
 &copy; Greig Reid
