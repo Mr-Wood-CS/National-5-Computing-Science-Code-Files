@@ -20,6 +20,8 @@ Adam wants the program to:
 
 **Write a program that meets Adam’s requirements.  (6)**
 
+<br>
+
 > ## Task 2
 
 Assuming that five games have been played, state two sets of test data that could be used to demonstrate that two of the messages display correctly when either Adam or his teacher have won the match. (2)
