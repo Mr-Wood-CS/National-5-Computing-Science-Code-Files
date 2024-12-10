@@ -18,4 +18,4 @@ Adam wants the program to:
 
 * Display a message congratulating the player who won the most games or display a message saying that the match was tied. 
 
-**Write a program below that meets Adam’s requirements.  (6)**
+**Write a program that meets Adam’s requirements.  (6)**
