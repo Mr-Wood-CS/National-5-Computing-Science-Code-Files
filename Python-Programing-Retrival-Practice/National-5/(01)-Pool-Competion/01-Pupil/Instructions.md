@@ -1,4 +1,4 @@
-# Pool Competition - Credit: Gregg Reid
+# Pool Competition
 
 Adam regularly challenges one of his teachers to a pool competition.  
 
