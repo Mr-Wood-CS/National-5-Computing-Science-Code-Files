@@ -26,9 +26,13 @@ Adam wants the program to:
 
 Assuming that five games have been played, state two sets of test data that could be used to demonstrate that two of the messages display correctly when either Adam or his teacher have won the match. (2)
 
+<br>
+
 > ## Task 3
 
 State the type of loop you used in your program.  (1)
+
+<br>
 
 > ## Task 4
 
