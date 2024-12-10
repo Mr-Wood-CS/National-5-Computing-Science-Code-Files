@@ -1,4 +1,4 @@
-# Pool Competition
+# Pool Competition - Credit: Gregg Reid
 
 Adam regularly challenges one of his teachers to a pool competition.  
 
@@ -19,3 +19,4 @@ Adam wants the program to:
 * Display a message congratulating the player who won the most games or display a message saying that the match was tied. 
 
 **Write a program that meets Adam’s requirements.  (6)**
+
